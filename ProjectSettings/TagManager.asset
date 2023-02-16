@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Suelo
   - 
   - 
   - 
@@ -39,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fondo
+    uniqueID: 1825666391
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
